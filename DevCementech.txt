@@ -1,0 +1,2 @@
+This is a demo app and does not collect any information of the device or user. 
+All Data in this app is static one. 
